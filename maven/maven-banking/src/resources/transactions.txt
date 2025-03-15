@@ -1,0 +1,33 @@
+{
+  "juan.jose@urosario.edu.co": [
+    {"balance": "50", "type": "Deposit", "timestamp": "2025-02-11 14:17:21.921536"},
+    {"balance": "-20", "type": "Withdrawal", "timestamp": "2025-02-15 10:30:15.123456"},
+    {"balance": "200", "type": "Deposit", "timestamp": "2025-02-20 09:45:30.654321"}
+  ],
+  "sara.palaciosc@urosario.edu.co": [
+    {"balance": "400", "type": "Deposit", "timestamp": "2025-03-13 17:41:06.330219"},
+    {"balance": "-100.0", "type": "Withdrawal", "timestamp": "2025-03-13 17:41:24.282025"},
+    {"balance": "123", "type": "Deposit", "timestamp": "2025-03-13 17:56:14.512487"},
+    {"balance": "-12.0", "type": "Withdrawal", "timestamp": "2025-03-13 17:56:09.340198"},
+    {"balance": "-50.0", "type": "Withdrawal", "timestamp": "2025-03-15 12:20:45.678910"}
+  ],
+  "ana.mendez@urosario.edu.co": [
+    {"balance": "1000", "type": "Deposit", "timestamp": "2025-01-25 08:15:45.567890"},
+    {"balance": "-250", "type": "Withdrawal", "timestamp": "2025-02-05 14:10:05.876543"},
+    {"balance": "500", "type": "Deposit", "timestamp": "2025-02-20 18:45:30.456789"},
+    {"balance": "-300", "type": "Withdrawal", "timestamp": "2025-03-01 11:22:33.987654"}
+  ],
+  "carlos.lopez@urosario.edu.co": [
+    {"balance": "750", "type": "Deposit", "timestamp": "2025-03-01 09:30:20.123789"},
+    {"balance": "-100", "type": "Withdrawal", "timestamp": "2025-03-02 16:15:40.456987"},
+    {"balance": "-200", "type": "Withdrawal", "timestamp": "2025-03-03 19:50:25.789654"},
+    {"balance": "300", "type": "Deposit", "timestamp": "2025-03-05 21:05:10.654321"}
+  ],
+  "laura.gomez@urosario.edu.co": [
+    {"balance": "2000", "type": "Deposit", "timestamp": "2025-02-10 14:00:00.000000"},
+    {"balance": "-500", "type": "Withdrawal", "timestamp": "2025-02-15 18:20:30.111222"},
+    {"balance": "-700", "type": "Withdrawal", "timestamp": "2025-02-28 22:10:45.333444"},
+    {"balance": "1000", "type": "Deposit", "timestamp": "2025-03-10 08:05:15.555666"},
+    {"balance": "-300", "type": "Withdrawal", "timestamp": "2025-03-12 13:45:50.777888"}
+  ]
+}
